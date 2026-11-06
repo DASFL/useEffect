@@ -1,0 +1,25 @@
+node_modules/
+dist/
+dist-ssr/
+
+# Настройки редакторов
+.idea/
+.vscode/
+*.iml
+.DS_Store
+
+# Логи и временные файлы
+logs/
+*.log
+*.local
+*.tmp
+*.temp
+*.sw?
+*~
+*.tsbuildinfo
+.env
+.env.*
+
+# Локальные файлы Codex
+.codex/
+.agents/
